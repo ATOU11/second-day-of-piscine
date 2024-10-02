@@ -1,6 +1,6 @@
 function sayHi() {
-	return console.log ("Hi")
-	span()
+     console.log ("Hi")
+	
 }
 sayHi()
 sayHi()
